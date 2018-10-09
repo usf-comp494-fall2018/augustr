@@ -7,6 +7,9 @@
 /HW/HW/bin/Debug/netcoreapp2.0
 /HW/HW/bin/Debug/netcoreapp2.0
 /HW/HW/obj
+/.vs
+/ConsoleApp1/ConsoleApp1/obj
+/ConsoleApp1/.vs/ConsoleApp1/v15
 /HW/.vs/HW/DesignTimeBuild
 /EmployeeClasses/.vs/EmployeeClasses/v15
 /EmployeeClasses/EmployeeClasses/bin/Debug/netstandard2.0
